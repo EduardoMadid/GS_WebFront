@@ -54,11 +54,11 @@ function Cadastrar() {
           />
         </div>
         <p className="mt-4">
-        Já tem uma conta? <Link to="/login" className="text-blue-500">Faça seu Login</Link>
+        Já tem uma conta? <Link to="/login" className="text-green-500">Faça seu Login</Link>
         </p>
         <button
           type="submit"
-          className="bg-blue-500 text-white p-2 rounded hover:bg-blue-600"
+          className="bg-green-500 text-white p-2 rounded hover:bg-green-600"
         >
           Cadastrar
         </button>

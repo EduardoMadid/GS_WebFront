@@ -23,16 +23,16 @@ function Login() {
             required
           />
         </div>
-        <button
-          type="submit"
-          className="bg-blue-500 text-white p-2 rounded hover:bg-blue-600"
-        >
-          Entrar
-        </button>
       </form>
       <p className="mt-4">
-        Ainda não tem uma conta? <Link to="/cadastrar" className="text-blue-500">Cadastre-se aqui</Link>
+        Ainda não tem uma conta? <Link to="/cadastrar" className="text-green-500">Cadastre-se aqui</Link>
       </p>
+      <button
+          type="submit"
+          className="bg-green-500 text-white p-2 rounded hover:bg-green-600"
+        >
+          Entrar
+      </button>
     </div>
   );
 }
