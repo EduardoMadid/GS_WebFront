@@ -20,10 +20,10 @@ function Footer() {
         <FaInstagram />
       </a>
       <a
-        href="https://linkedin.com"
+        href="https://www.linkedin.com/in/eduardo-madid-10aa862b6/"
         target="_blank"
         rel="noopener noreferrer"
-        className="hover:text-blue-300"
+        className="hover:text-blue-500"
       >
         <FaLinkedin />
       </a>
